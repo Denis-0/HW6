@@ -18,4 +18,7 @@
 ![image](https://user-images.githubusercontent.com/45406197/182676466-ca5854cb-13de-463a-a897-f8cbf69e21f9.png)
 10. Коммит в сессии 2 привел к тому, что в сессии 3 создался индекс
 ![image](https://user-images.githubusercontent.com/45406197/182676829-a1122d20-27fd-4166-ba2c-fd15f4130593.png)
+11. Могут ли две транзакции, выполняющие единственную команду UPDATE одной и той же таблицы (без where), заблокировать друг друга?
+--могут
+![image](https://user-images.githubusercontent.com/45406197/182677519-46a89d3a-185c-4195-a576-71c4c7d95d58.png)
 
