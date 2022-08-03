@@ -8,4 +8,6 @@
 ![image](https://user-images.githubusercontent.com/45406197/182674552-5f5ce7b3-9812-42c8-93bc-10c2c389f7e9.png)
 5. Смотрим какие блокировки
 ![image](https://user-images.githubusercontent.com/45406197/182675100-dfbda83e-6f0e-4f28-b8fc-5da8114f4009.png)
+6. апдейт строки
+![image](https://user-images.githubusercontent.com/45406197/182675313-73c2c3f0-7393-4e28-a54b-d8b9f3f3be1f.png)
 
