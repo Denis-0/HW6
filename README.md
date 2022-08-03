@@ -16,4 +16,6 @@
 ![image](https://user-images.githubusercontent.com/45406197/182676039-8e21f003-6003-4940-b72b-eee9286eb3b9.png)
 9. В сессии 1 находим номер блокирующего процесса
 ![image](https://user-images.githubusercontent.com/45406197/182676466-ca5854cb-13de-463a-a897-f8cbf69e21f9.png)
+10. Коммит в сессии 2 привел к тому, что в сессии 3 создался индекс
+![image](https://user-images.githubusercontent.com/45406197/182676829-a1122d20-27fd-4166-ba2c-fd15f4130593.png)
 
