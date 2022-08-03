@@ -14,4 +14,6 @@
 ![image](https://user-images.githubusercontent.com/45406197/182675674-efff9fcf-8d0e-44ed-914b-20d40b313d92.png)
 8. В сессии 3 команда создания индекса висит
 ![image](https://user-images.githubusercontent.com/45406197/182676039-8e21f003-6003-4940-b72b-eee9286eb3b9.png)
+9. В сессии 1 находим номер блокирующего процесса
+![image](https://user-images.githubusercontent.com/45406197/182676466-ca5854cb-13de-463a-a897-f8cbf69e21f9.png)
 
