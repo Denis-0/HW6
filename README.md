@@ -6,4 +6,6 @@
 ![image](https://user-images.githubusercontent.com/45406197/182674361-09eac1dd-6c66-4bfb-92ca-ce39ea2be027.png)
 4.Инсерт в таблицу accounts
 ![image](https://user-images.githubusercontent.com/45406197/182674552-5f5ce7b3-9812-42c8-93bc-10c2c389f7e9.png)
+5. Смотрим какие блокировки
+![image](https://user-images.githubusercontent.com/45406197/182675100-dfbda83e-6f0e-4f28-b8fc-5da8114f4009.png)
 
